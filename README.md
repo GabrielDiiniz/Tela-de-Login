@@ -7,7 +7,7 @@
 
 - HTML
 - CSS
-- JAVASCRIP
+- JavaScript
 - Git e Github
 
 ## Contato
